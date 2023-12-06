@@ -17,4 +17,6 @@ Using Leaflet, create a map that plots all the earthquakes from your dataset bas
 
 Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
 
-Please see below screenshot and the logic.js file for full code
+Please see below screenshot or run the index.html file. See the logic.js file for full code. 
+
+![image](https://github.com/ismailo1/leaflet-challenge/assets/139788593/2f73a1f3-42f2-4b79-8c12-10d3208db73c)
